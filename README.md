@@ -6,6 +6,7 @@ The HLA alleles were manually curated from available literature sources and were
 For extensive understanding on the prvealence of these alleles in various global populations, global allele frequencies were retrived from Allele Frequency Net Database (http://www.allelefrequencies.net/default.asp) and documented.
 
 <h2> HLA compilation summary </h2>
+Summary of HLA alleles with significant associations with Smallpox vaccine immune responses 
 - HLA-A - 1 <br/>
 - HLA-B - 11 <br/>
 - HLA-DQB1 - 2 <br/>
