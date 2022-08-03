@@ -5,6 +5,9 @@ This repository aims to provide a open source compilation of human leukocyte ant
 The HLA alleles were manually curated from available literature sources and were systematically compiled in a pre-formatted template. <br/>
 For extensive understanding on the prvealence of these alleles in various global populations, global allele frequencies were retrived from Allele Frequency Net Database (http://www.allelefrequencies.net/default.asp) and documented.
 
+<h2> HLA compilation summary </h2>
+
+
 <h4> Reference articles </h4> 
 1. Ovsyannikova IG, Vierkant RA, Pankratz VS, Jacobson RM, Poland GA. Human leukocyte antigen genotypes in the genetic control of adaptive immune responses to smallpox vaccine. J Infect Dis. 2011 Jun 1;203(11):1546-55. doi: 10.1093/infdis/jir167. PMID: 21592983; PMCID: PMC3096794.https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3096794/ <br/>
 2. Ovsyannikova IG, Pankratz VS, Salk HM, Kennedy RB, Poland GA. HLA alleles associated with the adaptive immune response to smallpox vaccine: a replication study. Hum Genet. 2014 Sep;133(9):1083-92. doi: 10.1007/s00439-014-1449-x. Epub 2014 Jun 1. PMID: 24880604; PMCID: PMC4127812.https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4127812/ <br/>
