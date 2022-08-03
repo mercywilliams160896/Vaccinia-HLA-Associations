@@ -1,8 +1,9 @@
 # Vaccinia_HLA_Associations
 
 <h1> Compilation of human leukocyte antigen (HLA) alleles associated with immune responses to Small pox vaccines </h1>
-
-
+This repository aims to provide a open source compilation of human leukocyte antigen (HLA) alleles that have been previously reported to be associated with immune responses elicited by Small pox vaccines. <br/>
+The HLA alleles were manually curated from available literature sources and were systematically compiled in a pre-formatted template. <br/>
+For extensive understanding on the prvealence of these alleles in various global populations, global allele frequencies were retrived from Allele Frequency Net Database (http://www.allelefrequencies.net/default.asp) and documented.
 
 <h4> Reference articles </h4> 
 1. Ovsyannikova IG, Vierkant RA, Pankratz VS, Jacobson RM, Poland GA. Human leukocyte antigen genotypes in the genetic control of adaptive immune responses to smallpox vaccine. J Infect Dis. 2011 Jun 1;203(11):1546-55. doi: 10.1093/infdis/jir167. PMID: 21592983; PMCID: PMC3096794.https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3096794/ <br/>
