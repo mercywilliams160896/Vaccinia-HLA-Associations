@@ -1,6 +1,5 @@
 # Vaccinia_HLA_Associations
 ![Monkeypoxgithub_logo](https://user-images.githubusercontent.com/63647211/182582550-b1a1a04c-54c3-4c69-acc7-3002c966c769.jpg)
-
 <h1> Compilation of human leukocyte antigen (HLA) alleles associated with immune responses to Small pox vaccines </h1>
 This repository aims to provide a open source compilation of human leukocyte antigen (HLA) alleles that have been previously reported to be associated with immune responses elicited by Small pox vaccines. <br/>
 The HLA alleles were manually curated from available literature sources and were systematically compiled in a pre-formatted template. <br/>
