@@ -6,7 +6,10 @@ The HLA alleles were manually curated from available literature sources and were
 For extensive understanding on the prvealence of these alleles in various global populations, global allele frequencies were retrived from Allele Frequency Net Database (http://www.allelefrequencies.net/default.asp) and documented.
 
 <h2> HLA compilation summary </h2>
-
+- HLA-A - 1 <br/>
+- HLA-B - 11 <br/>
+- HLA-DQB1 - 2 <br/>
+- HLA-DRB1 - 4 <br/>
 
 <h4> Reference articles </h4> 
 1. Ovsyannikova IG, Vierkant RA, Pankratz VS, Jacobson RM, Poland GA. Human leukocyte antigen genotypes in the genetic control of adaptive immune responses to smallpox vaccine. J Infect Dis. 2011 Jun 1;203(11):1546-55. doi: 10.1093/infdis/jir167. PMID: 21592983; PMCID: PMC3096794.https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3096794/ <br/>
